@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">smartBoom</string>
+    <string name="login">ورود</string>
+    <string name="login_description">نام کاربری و رمز عبور را برای ورود وارد کنید</string>
+    <string name="dont_have_account">حساب کاربری ندارید؟</string>
+    <string name="have_account">آیا حساب کاربری دارید؟</string>
+    <string name="sign_up">ثبت‌نام</string>
+    <string name="username_or_Phone_Number">نام کاربری یا شماره تلفن</string>
+    <string name="username_or_Phone_Number_enter">نام کاربری یا شماره تلفن را وارد کنید</string>
+    <string name="username_input_incorrect_error">نام کاربری یا شماره تلفن نادرست است</string>
+    <string name="username_input_empty_error">لطفاً نام کاربری یا شماره تلفن را وارد کنید</string>
+    <string name="password">رمز عبور</string>
+    <string name="password_empty_error">لطفاً رمز عبور را وارد کنید</string>
+    <string name="password_incorrect_error">رمز عبور نادرست است</string>
+    <string name="forget_password_q">رمز عبور را فراموش کرده‌اید؟</string>
+    <string name="forget_password">فراموشی رمز عبور</string>
+    <string name="create_an_account">ایجاد حساب کاربری</string>
+    <string name="phone_number">شماره تلفن</string>
+    <string name="phone_number_empty_error">لطفاً شماره تلفن را وارد کنید</string>
+    <string name="phone_number_incorrect_error">شماره تلفن نادرست است</string>
+    <string name="privacy_description">ثبت‌نام به معنی پذیرش</string>
+    <string name="privacy">سیاست حفظ حریم خصوصی</string>
+    <string name="confirm">تأیید</string>
+    <string name="verification">تأیید حساب کاربری</string>
+    <string name="code_sent">کد تأیید ارسال‌شده به</string>
+</resources>
