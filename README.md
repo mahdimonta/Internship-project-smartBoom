@@ -1,6 +1,6 @@
 <p>This is a Kotlin Multiplatform project targeting Android, iOS, Desktop (JVM).
 <p/>
-<p>This app just has some simple screens like splash , login , sign up , foget password and verification.
+<p>This app just has some simple screens like splash , login , sign up , forget password and verification.
 </p>
 <h2>App Preview</h2>
 <p align="center">
